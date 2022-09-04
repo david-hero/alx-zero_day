@@ -1,3 +1,3 @@
-# My second readme
-- Just updating
-- I think i am done
+# my second readme
+- just updating
+- i think i am done
